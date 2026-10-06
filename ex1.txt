@@ -1,1 +1,2 @@
-
+Hello i am nani
+i created the file inside the nani directory
